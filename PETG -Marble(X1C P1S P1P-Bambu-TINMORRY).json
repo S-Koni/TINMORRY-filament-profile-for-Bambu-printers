@@ -3,7 +3,7 @@
         "Bambu Lab X1 Carbon 0.4 nozzle",
         "Bambu Lab X1 0.4 nozzle",
         "Bambu Lab P1S 0.4 nozzle",
-        "Bambu Lab P1P 0.4 nozzle"
+        "Bambu Lab A1 mini 0.4 nozzle"
     ],
     "filament_settings_id": [
         "PETG -Marble(X1C P1S P1P-Bambu-TINMORRY)"
@@ -35,3 +35,4 @@
     ],
     "version": "1.6.0.3"
 }
+
